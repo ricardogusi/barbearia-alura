@@ -9,6 +9,7 @@ Aula de HTML
 
 **Tecnologia usada:**
 * HTML
+* CSS
 
 <a href="https://imgur.com/DogGgAR"><img src="https://i.imgur.com/DogGgAR.png" title="source: imgur.com" /></a>
 
